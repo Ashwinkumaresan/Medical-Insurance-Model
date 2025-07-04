@@ -62,16 +62,16 @@ The dataset contains the following columns:
 6. **Model Building**
    - Linear Regression
 7. **Model Evaluation**
-   - Calculate **RMSE (Root Mean Squared Error)**
+   - Calculate **R² Score**
 
 ---
 
 ## 📈 Model Evaluation
 
-The model’s performance was evaluated using **Root Mean Squared Error (RMSE)**, a standard regression metric for assessing prediction accuracy.
+The model’s performance was evaluated using the **R² Score**, a standard regression metric indicating how well the model explains the variability of the target variable.
 
 Example result:
-- **RMSE**: `2.0` (lower is better)
+- **R² Score**: `0.8` (closer to 1 is better)
 
 ---
 
